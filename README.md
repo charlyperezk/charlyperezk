@@ -48,9 +48,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/charlyperezk/charlyperezk/output/snake.svg" alt="Snake animation" />
-
-###
