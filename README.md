@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="![IMG_8541](https://github.com/charlyperezk/charlyperezk/assets/118618975/f0e8a762-d2b6-470f-b1a9-5d3a68d8570b)"  />
+  <img height="200" src="https://github.com/charlyperezk/charlyperezk/assets/118618975/f0e8a762-d2b6-470f-b1a9-5d3a68d8570b"  />
 </div>
 
 ###
