@@ -15,10 +15,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://mail.google.com/mail/u/0/?ui=2&ik=12b5e8bf7f&attid=0.1&permmsgid=msg-a:r-5537907376876793439&th=1904b6e0196738f7&view=fimg&disp=thd&attbid=ANGjdJ9zLWBLzwyGaRt-apJiflr3qkaPLg0WKESXBM7bhLpWhsQtOoW9xvFSZqfRMdEPRaLVBAtnZpFYK9Wb2oFn2-qh8KU0wTlnfkja8oU4Gh9fs-g2VPCrbSejtWA&ats=2524608000000&sz=w1848-h1017"  />
+  <img height="200" src="![IMG_8541](https://github.com/charlyperezk/charlyperezk/assets/118618975/f0e8a762-d2b6-470f-b1a9-5d3a68d8570b)"  />
 </div>
 
 ###
+
 
 <p align="left">Year 2002. Me and my father<br>I will always be grateful to you for instilling in me curiosity, a love for innovation, and technology.</p>
 
