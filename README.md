@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">My name is Carlos Pérez Küper, and I'm a Python Backend Developer half argentine and half spanish.<br>Currently located in Málaga, Spain.</p>
+<p align="left">My name is Carlos Pérez Küper, and I'm a Python Backend Developer half argentine and half spanish. Passionate about creating efficient, scalable solutions and constantly exploring new technologies. Let's build something great together! <br>Currently located in Málaga, Spain.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning more about Python and my main focus its in FastAPI.<br>🎯 Goals: Get a backend role position with Python and FastAPI.</p>
+<p align="left">✨ Coding since 2021<br>📚 I'm currently improving skills in: AWS, Agile Methodologies, Security, English, Documentation.<br>🎯 Goals: My focus is on creating efficient solutions to real-world problems and participating in projects aligned with this goal.</p>
 
 ###
 
