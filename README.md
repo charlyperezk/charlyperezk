@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Carlos Pérez Küper, and I'm a Python Backend Developer half argentine and half spanish. Passionate about creating efficient, scalable solutions and constantly exploring new technologies. Let's build something great together! <br>Currently located in Málaga, Spain.</p>
+<p align="left">My name is Carlos Pérez Küper, and I'm a Python Developer half argentine and half spanish. Passionate about creating efficient, scalable solutions and constantly exploring new technologies. Let's build something great together! <br>Currently located in Málaga, Spain.</p>
 
 ###
 
@@ -37,10 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
