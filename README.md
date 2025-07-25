@@ -1,16 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hola!</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Acerca de mí</h2>
 
 ###
 
-<p align="left">My name is Carlos Pérez Küper, and I'm a Developer half argentine and half spanish. Passionate about creating efficient, scalable solutions and constantly exploring new technologies. Let's build something great together! <br>Currently located in Málaga, Spain.</p>
-
-###
-
-<p align="left">🎯 Goals: My focus is on creating efficient solutions to real-world problems and participating in projects aligned with this goal.</p>
+<p align="left">Mi nombre es Carlos Pérez Küper y soy un desarrollador argentino. Actualmente trabajo como Python Developer en una startup tech. Colaboro en proyectos de Data engineering y Backend en el área de BI de la empresa.</p>
 
 ###
 
@@ -21,4 +17,4 @@
 ###
 
 
-<p align="left">Year 2002. Me and my father<br>I will always be grateful to you for instilling in me curiosity, a love for innovation, and technology.</p>
+<p align="left">Año 2002. Mi padre y yo<br> Gracias por instalar en mi la curiosidad y la pasión por la innovación y tecnología.</p>
